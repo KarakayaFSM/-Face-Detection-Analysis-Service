@@ -1,0 +1,11 @@
+/images/
+*.pt
+/httpRequests/
+/.idea/codeStyles/
+/.idea/inspectionProfiles/
+/.idea/sonarlint/
+/.idea/face_detection_project.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
