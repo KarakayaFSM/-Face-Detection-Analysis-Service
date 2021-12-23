@@ -21,12 +21,6 @@ def initialize_minio_client():
 
 client = initialize_minio_client()
 
-
-# def download_image(object_name):
-#     print('OBJECT NAME: ', object_name)
-#     print(f'FULL PATH: {DEFAULT_URL_PREFIX}/{object_name}')
-#     return requests.get(f'{DEFAULT_URL_PREFIX}/{object_name}', stream=True).content
-
 def download_file(object_name):
     response = None
     try:
