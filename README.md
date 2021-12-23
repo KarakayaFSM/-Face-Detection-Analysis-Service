@@ -1,3 +1,3 @@
 # Face-Detection-Analysis-Service for graduation project
 
-MTCNN - PYTORCH - FLASK
+MTCNN - PYTORCH - FLASK - MINIO
